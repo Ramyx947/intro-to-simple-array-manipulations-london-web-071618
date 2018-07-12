@@ -11,8 +11,8 @@ neighborhoods_in_northwest_brooklyn.unshift("Brooklyn Heights")
 end 
 
 def using_pop(great_hits_of_the_nineties)
-  great_hits_of_the_nineties=["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
-   great_hits_of_the_nineties.pop("Losing My Religion")
+  great_hits_of_the_nineties = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
+   great_hits_of_the_nineties.pop
 end 
 
 def pop_with_args(chars_in_game_of_thrones)
